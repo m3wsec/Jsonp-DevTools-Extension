@@ -1,0 +1,8 @@
+{
+  "name": "Jsonp-DevTools-Extension",
+  "description" : "Jsonp-DevTools-Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  
+  "devtools_page":"dev.html"
+}
